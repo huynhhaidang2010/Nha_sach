@@ -4,4 +4,4 @@
 
 23/09/2026 - Thêm các thành viên vào github, bắt đầu dự án về nhà sách Minh Khai 
 
-24/09/2026 - Nghỉ giữ sức
+24/09/2026 - Bắt đầu với việc thiết kế CSDL:Thuận và phân tích: Như
