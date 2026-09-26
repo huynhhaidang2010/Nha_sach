@@ -9,5 +9,6 @@
 25/09/2026 - Nghỉ giữ sức
 
 26/09/2026 - Tiến trình làm việc: Phạm Quỳnh Như 50% chưa kiểm thử, Nguyễn Hùng Thuận 25% chưa kiểm thử
-- Đổi vai trò công việc: Nguyễn Hùng Thuận: Database Engineer -> Debugger
-- Thêm vai trò: Huỳnh Hải Đăng - Database Engineer
+- Đổi vai trò công việc: Nguyễn Hùng Thuận: Database Engineer -> Debugger 
+- Thêm vai trò: Huỳnh Hải Đăng - Coder
+- Kết nạp thành viên mới: Lê Anh Duy: Database Engineer  
