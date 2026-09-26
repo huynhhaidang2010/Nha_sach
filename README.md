@@ -7,3 +7,5 @@
 24/09/2026 - Bắt đầu với việc thiết kế CSDL:Thuận và phân tích: Như
 
 25/09/2026 - Nghỉ giữ sức
+
+26/09/2026 - Tiến trình làm việc:Phạm Quỳnh Như 50% chưa kiểm thử, Nguyễn Hùng Thuận 25% chưa kiểm thử
