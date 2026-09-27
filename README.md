@@ -12,3 +12,5 @@
 - Đổi vai trò công việc: Nguyễn Hùng Thuận: Database Engineer -> Debugger 
 - Thêm vai trò: Huỳnh Hải Đăng - Coder
 - Kết nạp thành viên mới: Lê Anh Duy: Database Engineer  
+
+27/09/2026 - Triển khai case diagram, activity diagram, database diagram, chia thành các nhánh
