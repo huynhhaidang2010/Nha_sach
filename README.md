@@ -14,4 +14,5 @@
 - Kết nạp thành viên mới: Lê Anh Duy: Database Engineer  
 
 27/09/2026 - Triển khai case diagram, activity diagram, database diagram, chia thành các nhánh
+
 28/09/2026 - Phân công công việc chia theo nhiều nhánh
