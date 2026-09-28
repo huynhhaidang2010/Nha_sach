@@ -15,4 +15,4 @@
 
 27/09/2026 - Triển khai case diagram, activity diagram, database diagram, chia thành các nhánh
 
-28/09/2026 - Phân công công việc chia theo nhiều nhánh
+28/09/2026 - Phân công công việc chia theo nhiều nhánh, đã làm 3/4 nhánh 
