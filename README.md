@@ -18,3 +18,4 @@
 28/09/2026 - Phân công công việc chia theo nhiều nhánh, đã làm 3/4 nhánh
 
 29/09/2026 - Nghỉ giữ sức ( có code nhưng code bị kiểm thử thất bại ) 
+30/09/2026 - Kết thúc bài cũ bắt đầu làm bài mới
