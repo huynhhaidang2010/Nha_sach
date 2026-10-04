@@ -29,3 +29,5 @@
 bài học
 
 4/10/2026 - Nghỉ giữ sức
+
+5/10/2026 - đã làm use case diagram, activity diagram, database diagram, đang chờ ý kiến/nhận xét từ các thành viên
