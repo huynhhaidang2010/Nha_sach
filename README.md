@@ -25,9 +25,8 @@
 
 2/10/2026 - Cập nhật file docx báo cáo
 
-3/10/2026 - Ghi nhận sai lầm, sửa chữa 
-bài học
+3/10/2026 - Ghi nhận sai lầm, sửa chữa bài học
 
 4/10/2026 - Nghỉ giữ sức
 
-5/10/2026 - đã làm use case diagram, activity diagram, database diagram, đang chờ ý kiến/nhận xét từ các thành viên
+5/10/2026 - Đã làm use case diagram, activity diagram, database diagram, đang chờ ý kiến/nhận xét từ các thành viên
