@@ -30,3 +30,5 @@
 4/10/2026 - Nghỉ giữ sức
 
 5/10/2026 - Đã làm use case diagram, activity diagram, database diagram, đang chờ ý kiến/nhận xét từ các thành viên
+
+6/10/2026 - Chỉnh sửa hình ảnh use diagram, activity diagram
