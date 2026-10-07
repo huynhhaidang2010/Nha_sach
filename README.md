@@ -35,4 +35,4 @@
 
 6/10/2026 - Chỉnh sửa hình ảnh use diagram, activity diagram
 
-7/10/2026 - Nghỉ giữ sức 
+7/10/2026 - Tìm hiểu phần mềm windows application, chuẩn bị gõ code
