@@ -20,8 +20,8 @@
 29/09/2026 - Nghỉ giữ sức ( có code nhưng code bị kiểm thử thất bại ) 
 
 30/09/2026 - Kết thúc bài cũ bắt đầu làm bài mới
-
 1/10/2026 - Nghỉ giữ sức
+
 
 2/10/2026 - Cập nhật file docx báo cáo
 
@@ -32,3 +32,5 @@
 5/10/2026 - Đã làm use case diagram, activity diagram, database diagram, đang chờ ý kiến/nhận xét từ các thành viên
 
 6/10/2026 - Chỉnh sửa hình ảnh use diagram, activity diagram
+
+7/10/2026 - Nghỉ giữ sức 
