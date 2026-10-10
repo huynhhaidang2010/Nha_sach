@@ -36,3 +36,9 @@
 6/10/2026 - Chỉnh sửa hình ảnh use diagram, activity diagram
 
 7/10/2026 - Tìm hiểu phần mềm windows application, chuẩn bị gõ code
+
+8/10/2026 - nghỉ giữ sức
+
+9/10/2026 - lập trình khung giao diện trên Visual Studio
+
+10/10/2026 - báo cáo, hoàn chỉnh sơ đồ use case diagram 
