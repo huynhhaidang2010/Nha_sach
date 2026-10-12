@@ -21,9 +21,7 @@
 
 30/09/2026 - Kết thúc bài cũ bắt đầu làm bài mới
 
-
 1/10/2026 - Nghỉ giữ sức
-
 
 2/10/2026 - Cập nhật file docx báo cáo
 
@@ -37,8 +35,12 @@
 
 7/10/2026 - Tìm hiểu phần mềm windows application, chuẩn bị gõ code
 
-8/10/2026 - nghỉ giữ sức
+8/10/2026 - Nghỉ giữ sức
 
-9/10/2026 - lập trình khung giao diện trên Visual Studio
+9/10/2026 - Lập trình khung giao diện trên Visual Studio
 
-10/10/2026 - báo cáo, hoàn chỉnh sơ đồ use case diagram 
+10/10/2026 - Báo cáo, hoàn chỉnh sơ đồ use case diagram
+
+11/10/2026 - Tiếp tục chỉnh sửa, thêm activity diagram
+
+12/10/2026 - Deadline dí ở văn hóa, không có tiến độ gì nhiều
