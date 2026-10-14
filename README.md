@@ -44,3 +44,7 @@
 11/10/2026 - Tiếp tục chỉnh sửa, thêm activity diagram
 
 12/10/2026 - Deadline dí ở văn hóa, không có tiến độ gì nhiều
+
+13/10/2026 - hoàn thiện use case diagram và activity diagram. bắt đầu đến với code database
+
+14/10/2026 - nghỉ giữ sức
