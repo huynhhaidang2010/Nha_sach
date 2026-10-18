@@ -45,6 +45,14 @@
 
 12/10/2026 - Deadline dí ở văn hóa, không có tiến độ gì nhiều
 
-13/10/2026 - hoàn thiện use case diagram và activity diagram. bắt đầu đến với code database
+13/10/2026 - Hoàn thiện use case diagram và activity diagram. bắt đầu đến với code database
 
-14/10/2026 - nghỉ giữ sức
+14/10/2026 - Nghỉ giữ sức
+
+15/10/2026 - Hoàn thiện database diagram
+
+16/10/2026 - Chuẩn bị Visual Studio để tạo Windows Application
+
+17/10/2026 - Báo cáo, tăng điểm cả nhóm 🥵❤️💔🥀🐥🔥
+
+18/10/2026 - Nghỉ giữ sức
