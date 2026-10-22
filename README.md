@@ -56,3 +56,11 @@
 17/10/2026 - Báo cáo, tăng điểm cả nhóm 🥵❤️💔🥀🐥🔥
 
 18/10/2026 - Nghỉ giữ sức
+
+19/10/2026 - vướng nhiều việc bên văn hóa, tiện độ khá chậm
+
+20/10/2026 - tìm hiểu cách gợp java với SQL lại ( tìm hiểu thất bại vì chưa có kinh nghiệm )
+
+21/10/2026 - cài Visual Studio, bắt đầu thử nghiệm
+
+22/10/2026 - nghỉ giữ 
