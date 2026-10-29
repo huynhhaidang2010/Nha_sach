@@ -57,10 +57,24 @@
 
 18/10/2026 - Nghỉ giữ sức
 
-19/10/2026 - vướng nhiều việc bên văn hóa, tiện độ khá chậm
+19/10/2026 - Vướng nhiều việc bên văn hóa, tiện độ khá chậm
 
-20/10/2026 - tìm hiểu cách gợp java với SQL lại ( tìm hiểu thất bại vì chưa có kinh nghiệm )
+20/10/2026 - Tìm hiểu cách gợp java với SQL lại ( tìm hiểu thất bại vì chưa có kinh nghiệm )
 
-21/10/2026 - cài Visual Studio, bắt đầu thử nghiệm
+21/10/2026 - Cài Visual Studio, bắt đầu thử nghiệm
 
-22/10/2026 - nghỉ giữ 
+22/10/2026 - Nghỉ giữ sức
+
+23/10/2026 - Tìm hiểu về Console app trong Visual Studio
+
+24/10/2026 - Do thi GKI nên phải tập trung ôn
+
+25/10/2026 - Tiếp tục thi GKI
+
+26/10/2026 - Nghỉ giữu sức
+
+27/10/2026 - Chuyển từ Console App sang Windows Forms App
+
+28/10/2026 - Tìm hiểu về Windows Forms App
+
+29/10/2026 - Thử nghiệm trên dự án nhỏ để lấy kinh nghiệm
