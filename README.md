@@ -71,10 +71,22 @@
 
 25/10/2026 - Tiếp tục thi GKI
 
-26/10/2026 - Nghỉ giữu sức
+26/10/2026 - Nghỉ giữ sức
 
 27/10/2026 - Chuyển từ Console App sang Windows Forms App
 
 28/10/2026 - Tìm hiểu về Windows Forms App
 
 29/10/2026 - Thử nghiệm trên dự án nhỏ để lấy kinh nghiệm
+
+30/10/2026 - Nghỉ giữ sức
+
+31/10/2026 - Tăng điểm 🐥🔥🐤, nhưng activity phát sinh nhiều vấn đề
+
+1/11/2026 - Làm activity nhân viên bán hàng
+
+2/11/2026 - Làm activity nhân viên quản lý
+
+3/11/2026 - Sửa activity nhân viên bán hàng
+
+4/11/2026 - Nghỉ giữ sức
