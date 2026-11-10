@@ -90,3 +90,5 @@
 3/11/2026 - Sửa activity nhân viên bán hàng
 
 4/11/2026 - Nghỉ giữ sức
+
+5/11–10/11/2026 - Sửa database diagram
