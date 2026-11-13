@@ -92,3 +92,9 @@
 4/11/2026 - Nghỉ giữ sức
 
 5/11–10/11/2026 - Sửa database diagram
+
+11/11/2026 - Hỏi ý kiến thầy về database và chỉ ra lỗi sai thiếu 2 cái sơ đồ
+
+12/11/2026 - Nghỉ giữ sức
+
+13/11/2026 - Sửa lại database và làm thêm 2 bảng Conceptual ERD, Logical Mapping 
