@@ -98,3 +98,11 @@
 12/11/2026 - Nghỉ giữ sức
 
 13/11/2026 - Sửa lại database và làm thêm 2 bảng Conceptual ERD, Logical Mapping 
+
+14/11-18/11/2026 - Nghỉ giữ sức 
+
+19/11/2026 - Phân chia 15 bảng để  mỗi người tìm dữ liệu cho từng bảng, Hoàng, Như ,Nhật ,
+Duy mỗi người làm 2 bảng còn riêng thuận làm 3 bảng 
+
+20/11-21/11/2026:Xong database Làm xong giao diện  login, sign up Đã kết nối database với dự án
+ 
