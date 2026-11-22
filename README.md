@@ -106,3 +106,4 @@ Duy mỗi người làm 2 bảng còn riêng thuận làm 3 bảng
 
 20/11-21/11/2026:Xong database Làm xong giao diện  login, sign up Đã kết nối database với dự án
  
+22/11/2026:Hoàn thành nút bấm setting 
