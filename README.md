@@ -101,9 +101,8 @@
 
 14/11-18/11/2026 - Nghỉ giữ sức 
 
-19/11/2026 - Phân chia 15 bảng để  mỗi người tìm dữ liệu cho từng bảng, Hoàng, Như ,Nhật ,
-Duy mỗi người làm 2 bảng còn riêng thuận làm 3 bảng 
+19/11/2026 - Phân chia 15 bảng để mỗi người tìm dữ liệu cho từng bảng, Hoàng, Như, Nhật, Duy mỗi người làm 2 bảng còn riêng Thuận làm 3 bảng 
 
-20/11-21/11/2026:Xong database Làm xong giao diện  login, sign up Đã kết nối database với dự án
+20/11-21/11/2026 - Xong database Làm xong giao diện login, sign up đã kết nối database với dự án
  
-22/11/2026:Tương tác được frmlogin frmMain, có thanh truy vấn sách frm Setting có nút Info xem thông tin người dùng hiện tại
+22/11/2026 - Tương tác được frmLogin, frmMain có thanh truy vấn sách frmSetting có nút Info xem thông tin người dùng hiện tại
