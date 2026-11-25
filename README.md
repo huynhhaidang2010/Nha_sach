@@ -106,3 +106,9 @@
 20/11-21/11/2026 - Xong database Làm xong giao diện login, sign up đã kết nối database với dự án
  
 22/11/2026 - Tương tác được frmLogin, frmMain có thanh truy vấn sách frmSetting có nút Info xem thông tin người dùng hiện tại
+
+23/11/2026- Nghỉ giữ sức
+
+24/11/2026- Nghỉ lễ 
+
+25/11/2026- tạo được nút thông báo, trong thông báo có sự kiện và xong phần chỉnh sửa thông tin người dùng hiện tại
